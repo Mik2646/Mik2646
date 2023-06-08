@@ -1,4 +1,4 @@
-Hi ! My name is Akkharachai ![](https://media2.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.gif?cid=6c09b952ju8fu49eo31p24xi36288sf157i4q91mlgap6jc1&ep=v1_gifs_search&rid=200w.gif&ct=s)
+Hi !![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Akkharachai  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](https://media2.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.gif?cid=6c09b952ju8fu49eo31p24xi36288sf157i4q91mlgap6jc1&ep=v1_gifs_search&rid=200w.gif&ct=s)
 ===================================================================================================================================
 
 student🧑🏻‍💻
