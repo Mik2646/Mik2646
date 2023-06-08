@@ -40,5 +40,9 @@ student🧑🏻‍💻
   <img src="https://steamuserimages-a.akamaihd.net/ugc/1816633910174080041/32477A23E3F8ED00765280B70EED5FE2F64EA070/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="330" height="200" />
   
   <img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2023/05/Demon-Slayer-4-ep-4.gif?fit=730%2C379&ssl=1"  width="330" height="200" />
+ 
+   <img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/1d/Muichiro_using_Shifting_Flow_Slash_to_attack_Hantengu.gif/revision/latest?cb=20230424123439"  width="330" height="200" />
+   <img src="https://64.media.tumblr.com/1baec868fae0d6871b2053ebe8a9e7c9/42f2814dda7eab29-48/s540x810/5f1bc59c184add0a93a001da3c47d80cfa78648d.gif"  width="330" height="200" />
+   <img src="https://media.tenor.com/VF6ZiN9PrTAAAAAC/giyuu-tomioka-kimetsu-no-yaiba.gif"  width="330" height="200" />
   </div>
   </div>
