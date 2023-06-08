@@ -39,4 +39,4 @@ student🧑🏻‍💻
 
 <a href="https://github.com/Mik2646" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mik2646&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80" />
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80" style = "width:100px" />
