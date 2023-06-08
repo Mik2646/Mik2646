@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akkharachai
+Hi ! My name is Akkharachai ![](https://media2.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.gif?cid=6c09b952ju8fu49eo31p24xi36288sf157i4q91mlgap6jc1&ep=v1_gifs_search&rid=200w.gif&ct=s)
 ===================================================================================================================================
 
 student🧑🏻‍💻
@@ -39,4 +39,4 @@ student🧑🏻‍💻
 
 <a href="https://github.com/Mik2646" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mik2646&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80" style = "width:100px" />
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80" style = "width:400px" />
